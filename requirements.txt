@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 26 17:26:37 2026
-
-@author: laurenmurtha33
-"""
-
 streamlit
 pandas
 numpy
